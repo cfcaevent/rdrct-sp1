@@ -13,7 +13,7 @@
           document.body.style.display = '';
         } else {
           // Redirect to specific page if not from Spain
-          window.location.replace('https://chateslive.site/');
+          window.location.replace('https://lovechatesp.site/');
         }
       })
       .catch(err => {
